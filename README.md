@@ -1,15 +1,7 @@
-# ml crash course
+Работу выполнили студенты группы М8О-214М-21
+Русина Лада, Вихирев Алексей, Меньков Андрей
 
-[Youtube playlist](https://youtube.com/playlist?list=PLkMuRSRMaoRtRoWHRvCVpEd9uU4_5PPmF)
+В работе использована было использовано два метода, первый - catboost, с результатом bestTest = 0.8625235405 bestIteration = 882 посмотреть, как производился анализ датасета можно в файле https://github.com/Lada1810/ml_crash_course/blob/new/homework/catboost.ipynb
 
-[Лекция 1. ML проeкт: основные этапы](./slides/lecture_01_ml_project.md)
-
-[Лекция 2. Введение в NLP](./slides/lecture_02_nlp_tasks_labelestudio.md)
-
-[Лекция 3. Многорукие бандиты](./slides/lecture_03_multi_armed_bandits.md)
-
-[Лекция 4. Обучение без учителя](./slides/lecture_04_unsupervised.md)
-
-[Лекция 5. Рекомендательные системы](./slides/lecture_05_recommender_system.md)
-
-[Лекция 6. ML system design](./slides/lecture_06_mlops_intro.md)
+Второй - DistilBERT, с результатом 0.898
+посмотреть, как производился анализ датасета можно в файле https://github.com/Lada1810/ml_crash_course/blob/new/homework/DistilBERT.ipynb
